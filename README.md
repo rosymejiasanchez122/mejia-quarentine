@@ -1,1 +1,1 @@
-# mejia-quarentine
+# mejia-quarantine
